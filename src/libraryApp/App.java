@@ -65,8 +65,8 @@ class App {
 				flag = false;
 				break;
 			default:
-				System.out.println("Please choose either 'a', 'b', 'c', 'd', 'e', "
-						+ "or 'f'!");
+				System.out.println("Please choose either 'a', 'b', 'c', 'd', "
+						+ "'e', " + "or 'f'!");
 			}
 			System.out.println("------------------------------------");
 		}
